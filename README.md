@@ -2,7 +2,7 @@
 
 ## Ministry-Management-System-Java-Project.You can run this program in any java compatiable IDE to check it out. Thanks!!
 
-## This java project made by me for practice perpose.It shows some fundamental features of java lamguage to comduct a Minnistry.
+## This java project made by me for practice perpose.It shows some fundamental features of java language to conduct a Minnistry.
 
 # Thanks for visit! Make sure to check the demo below with output ---
 
